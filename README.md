@@ -24,8 +24,8 @@ Este projeto tem como objetivo criar uma planilha de simulação de investimento
 - Gráficos dinâmicos
 
 ## 📄 Estrutura da Planilha
-- **Entrada de Dados (Configurações e Investimento Mensal**
-- **Simulação (Cenários)**
+- **Entrada de Dados**
+- **Simulação**
 - **Perfil de Investidor**
 - **Relatórios e Gráficos**
 
